@@ -1,0 +1,11 @@
+<?php
+
+return [
+    'title' => 'Xác nhận mật khẩu Website',
+    'form' => [
+        'please-confirm' => 'Xác nhận mật khẩu của bạn trước khi tiếp tục',
+        'password' => 'Mật khâu Website',
+        'password-confirm' => 'Xác nhận mật khâu Website',
+        'submit' => 'Quên mật khẩu?',
+    ]
+];
